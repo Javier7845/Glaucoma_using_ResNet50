@@ -1,5 +1,4 @@
-# TensorFlow2.0_ResNet
-A ResNet50 implementation using TensorFlow-2.0 to the task of glaucoma detection
+ResNet50 implementation using TensorFlow-2.0 to the task of glaucoma detection
 
 ## Train
 1. Requirements:
