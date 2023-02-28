@@ -4,7 +4,7 @@ ResNet50 implementation using TensorFlow-2.0 to the task of glaucoma detection
 1. Requirements:
 + Python >= 3.6
 + Tensorflow == 2.0.0
-2. To train the ResNet on your own dataset, you can put the dataset under the folder **original dataset**, and the directory should look like this:
+2. Put the dataset under the folder **original dataset**, and the directory should look like this:
 ```
 |——original dataset
    |——class_name_0
